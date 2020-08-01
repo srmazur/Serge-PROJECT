@@ -3,9 +3,9 @@ public class Main{
 	System.out.println("Hello World");
 	System.out.println("Second line");
 
-	int m = 0;
+
 	for (int i = 0 ;i <= 100 ; i ++){
-		System.out.println(m+=i);
+		System.out.println(i);
 	}
 	}
 }
